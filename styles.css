@@ -1,0 +1,18 @@
+
+.red { background-color: rgb(241, 142, 155);
+    font-family: "Verdana", 'DejaVu Sans', sans-serif;
+
+}
+#container-1 {
+    font-family: "Kaushan Script";
+    color: rgb(13, 13, 238);
+    font-size: 36px;
+}
+.red.big {
+   font-size: 24px;
+}
+#container-2 {
+    background-color: rgb(107, 236, 118);
+    font-size: 24px;
+    font-weight: bold;
+}
